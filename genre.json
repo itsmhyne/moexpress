@@ -1,0 +1,236 @@
+[
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07576"
+        },
+        "name": "Action"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07577"
+        },
+        "name": "Adventure"
+    },
+    {
+        "_id": {
+            "$oid": "64927a7d985dbf87e382efff"
+        },
+        "name": "Childcare"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07578"
+        },
+        "name": "Comedy"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07579"
+        },
+        "name": "Demons"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0757a"
+        },
+        "name": "Drama"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0757b"
+        },
+        "name": "Ecchi"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0757c"
+        },
+        "name": "Fantasy"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0757d"
+        },
+        "name": "Game"
+    },
+    {
+        "_id": {
+            "$oid": "64927c67985dbf87e382f003"
+        },
+        "name": "Gore"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0757e"
+        },
+        "name": "Harem"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0757f"
+        },
+        "name": "Historical"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07580"
+        },
+        "name": "Horror"
+    },
+    {
+        "_id": {
+            "$oid": "64927be3985dbf87e382f001"
+        },
+        "name": "Isekai"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07581"
+        },
+        "name": "Josei"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07582"
+        },
+        "name": "Magic"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07583"
+        },
+        "name": "Martial Arts"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07584"
+        },
+        "name": "Mecha"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07585"
+        },
+        "name": "Military"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07586"
+        },
+        "name": "Music"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07587"
+        },
+        "name": "Mystery"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07588"
+        },
+        "name": "Pshycological"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07589"
+        },
+        "name": "Parody"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0758a"
+        },
+        "name": "Police"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0758b"
+        },
+        "name": "Romance"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0758c"
+        },
+        "name": "Samurai"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0758d"
+        },
+        "name": "School"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0758e"
+        },
+        "name": "Sci-Fi"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb0758f"
+        },
+        "name": "Seinen"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07590"
+        },
+        "name": "Shoujo"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07591"
+        },
+        "name": "Shoujo Ai"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07592"
+        },
+        "name": "Shounen"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07593"
+        },
+        "name": "Slice of Life"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07594"
+        },
+        "name": "Sports"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07595"
+        },
+        "name": "Space"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07596"
+        },
+        "name": "Super Power"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07597"
+        },
+        "name": "Supernatural"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07598"
+        },
+        "name": "Thriller"
+    },
+    {
+        "_id": {
+            "$oid": "64926e7db9bf610a4fb07599"
+        },
+        "name": "Vampire"
+    }
+]

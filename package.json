@@ -1,0 +1,23 @@
+{
+  "name": "moexpress",
+  "version": "1.0.0",
+  "description": "belajar membuat restfull api dengan mongodb dan express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "restfull"
+  ],
+  "author": "mhamdany",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0",
+    "socket.io": "^4.6.2"
+  }
+}

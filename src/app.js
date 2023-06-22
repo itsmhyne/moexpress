@@ -10,7 +10,7 @@ app.use(express.urlencoded(
     }
 ));
 
-const db = require('./app/models/');
+const db = require('../app/models');
 db.mongoose
     .connect(db.url, {
         useNewUrlParser: true,
@@ -34,10 +34,10 @@ app.get('/', (req, res) => {
 });
 
 // posts
-require('./app/routes/post.route')(app);
+require('../app/routes/post.route')(app);
 // auth
-require('./app/routes/auth.route')(app);
-require('./app/routes/anime.route')(app);
+require('../app/routes/auth.route')(app);
+require('../app/routes/anime.route')(app);
 
 const PORT = 8000;
 app.listen(PORT, () => {
